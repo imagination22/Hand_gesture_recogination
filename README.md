@@ -1,2 +1,2 @@
-# Hand_gesture_regonication
+# Hand_gesture_recogination
 python project
